@@ -1,2 +1,2 @@
 # mini_ex
-![alt text](balls.png "program")
+![alt text](miniex1.png "program")
