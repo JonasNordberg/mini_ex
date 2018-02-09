@@ -1,2 +1,2 @@
 # mini_ex
-![alt text](miniex1.png "program")
+Here is a collection of my mini_ex assignments
