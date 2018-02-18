@@ -8,7 +8,7 @@ When I asked myself this question I had a lot of answers. First of all my notion
 
 
 
-
+![alt text](images2.png "Project number 2")
 
 
 Dancing is fun, and Saturday Night Fever is fun. So why not create a program to honor John Travolta and his dance moves? 
