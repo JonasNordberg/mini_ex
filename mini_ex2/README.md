@@ -1,4 +1,7 @@
 ![alt text](images.jpeg "John Travolta")
+
+
+
 What is fun to me? 
 
 When I asked myself this question I had a lot of answers. First of all my notion of fun doesn't have to be humour. It can be the small and simple things. A good relaxing evening with a good movie could be fun to me. 
