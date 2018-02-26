@@ -1,6 +1,6 @@
-#Time
+# Time
 
-##What is time to me? 
+## What is time to me? 
 Time is a funny concept. It is something made up logically by us humans, where we’ve created a measurement to measure the days and the years. 
 But these measurements does only fit the orbital period of the earth. What if you took Neptune, the fattest know planet from the Sun in the Solar System? The orbital period is 164,8 Earth years, but in reality it is just one Neptune year. This year on Neptune consists of 60.182  Earth days, which only takes 16 hours 6 minutes and 36 seconds in relativity to the measurement of time as we know.
 
@@ -12,7 +12,7 @@ Whenever you go online everything is available, there are no sites that are onli
 Some support webpages even provides 24h support. So when do we even stumble upon this phenomenon online? 
 To me it happens in the waiting periode. When the stream doesn’t go as fast as I want it to do. And this is when the infamous throbber comes in to the picture. This small icon is the only reminder, besides the clock on your computer, of time.
 
-###The program
+### The program
 So when assigned this task, of creating something regarding time, this was the first thing that popped in to my mind, so what I wanted to create, was a throbber, which resembled this relativity of time, so whats better than the great universe, which can provide all answers to us? Therefore I created our solar system with the sun in the middle and then our flat-Earth (joke) as the third planet circling the Sun. 
 All the planets are moving with a speed that is true related to the earths orbital period. which has been set to 1000. 
 Mercurys orbital period takes 0.24 earth years, so therefore I have multiplied this number with 1000, so that it would represent the actual speed in relation to the earths period, which is 1. I could have just created the throbber with the actual value, but it would take a year, to complete one round then… 
