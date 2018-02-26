@@ -23,7 +23,10 @@ Here is a screenshot of the program:
 
 ![alt text](Program.png "Throbber")
 
+And a link to tryout this infamous porgram:
+https://rawgit.com/JonasNordberg/mini_ex/master/mini_ex3/empty-example/index.html
+
 Thank you for reading through this essay. 
 I hope all these numbers didn’t put you off reading this, so as a reward for reading all this, here is a space potato:
 
-![alt text](potato.jpeg "Space potato")
+![alt text](potato.jpg "Space potato")
