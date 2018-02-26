@@ -20,7 +20,10 @@ I have done the same all up til the last “planet” in our solars system: Plut
 
 One thing i did have trouble creating was the ring around Saturn. I couldn’t quite manage to create a ring going around with some air between, so if you [the reader] has a solution for this I am open ears. 
 Here is a screenshot of the program:
+
 ![alt text](program.png "Throbber")
+
 Thank you for reading through this essay. 
 I hope all these numbers didn’t put you off reading this, so as a reward for reading all this, here is a space potato:
+
 ![alt text](potato.jpeg "Space potato")
