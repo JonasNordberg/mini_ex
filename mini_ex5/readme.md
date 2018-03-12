@@ -2,7 +2,8 @@
 
 This weeks theme was classes and games. Unfortunately I didn't quite manage to create a game which the user can interact with, since I chose to focus on the classes and creating objects in the OOP. And when I focused on this I didn't have the imagination to create something with p5.play. 
 So... This is how I've experienced working with classes and OOP:
-![alt text](work.jpg, "Meme") 
+
+![alt text](work.jpg "Meme") 
 
 But anyway, what I've created is something regarding classes and objects. When thinking of classes it is actually quite surprising that as a developer you suddently has to be very subjective in your designing. The creator puts in his/hers beliefs on how reality is, which can put some people into specific boxes and roles based on their appearance or sex. 
 And when you then think of all the major web-companies in the world is quite male-dominated in terms of developing software, then it becomes a problem. 
@@ -16,7 +17,8 @@ And as I wanted to show with my program, then we can all do something. We can ef
 
 ### The Program
 Link to my program: https://rawgit.com/JonasNordberg/mini_ex/master/mini_ex4/empty-example/index.html
-![alt text](pic.png, "Program")
+
+![alt text](pic.png "Program")
 
 The program itself is created around the class I've called bubbles. The bubbles is created using a loop, so that I can create and infinite amount of bubbles based on the value I put in. In this case I chose 200 since that was what I found the most pleasing number to watch. 
 The movement of these is created using a random generated speed. This creates this kind of jittering. 
