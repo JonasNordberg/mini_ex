@@ -9,8 +9,7 @@ We picked Cat Haikus because we wanted to experiment with humour as a sort of in
 
 
 ### Language
-![alt text][logo]
-[logo]: https://www.google.dk/search?q=recaptcha&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj74-6M14naAhVDDiwKHTXoDgsQ_AUICigB&biw=872&bih=953#imgrc=CgAueg80wvvotM:
+
 As a human being we use language to communicate to each other. When we use the same language as the person we communicate with not much can be misunderstood. But then we also have our body language, which can be a part of understanding of the situation. 
 But when we use our computers a new language is present - the machine language. This language is much stricter than the human language (except for maybe the german language…). There is no room for misunderstandings and false interpretations. A task given can only be solved in one way. So if the task is not properly defined no solution will be given by the computer. This language barrier is also something that we’ve experienced during this exercise. 
 We had an idea of what we wanted to create. Once we began, we tried using Winnie’s code to have multiple sound files with text. This quickly came to work properly, but then we had some troubles with the .js file. This file had all the queer text in it, so we thought, why not change some of these so that the code itself represents what our product is about - cats. But no matter how little text we tried to change we had an error. So in the end we could only change some parameters in Winnie’s code, but not all that we wanted to do. 
