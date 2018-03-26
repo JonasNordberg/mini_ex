@@ -1,0 +1,62 @@
+{
+	"description": "The file contains the meta data of queer text",
+	"condition": "statement2 cannot be null",
+	"copyLeft": "Creative Common Licence BY 3.0",
+	"queers":
+	[
+		{
+		  "iam": "Cold",
+    		"lastname": "Verse1",
+    		"statement2": "Cold light big city winter nights between houses even cats freeze",
+    		"statement3": "null"
+    		},
+		{
+  		"iam": "Black",
+    		"lastname": "Verse2",
+				"statement2": "There is a black cat across the road where I went unfortunate for it",
+    		"statement3": "null"
+ 		},
+    		{
+  		"iam": "Sunny",
+    		"lastname": "Verse3",
+				"statement2": "A sunny morning the birds fly by a cat gets up",
+    		"statement3": "null"
+ 		},
+ 		{
+  		"iam": "Bizare",
+    		"lastname": "Verse4",
+				"statement2": "Bizarre cats dancing belly dance on me Kloe'r screaming tonight",
+    		"statement3": "null"
+ 		},
+ 		{
+  		"iam": "Wildlife",
+    		"lastname": "Verse5",
+				"statement2": "I'm going for a walk meet no wildlife just a striped cat",
+				"statement3": "null"
+ 		},
+ 		{
+  		"iam": "Night",
+    		"lastname": "Verse6",
+				"statement2": "In the dark night meet cats in the yard then there is a concert",
+				"statement3": "null"
+ 		},
+ 		{
+  		"iam": "Ditch",
+    		"lastname": "Verse7",
+				"statement2": "The sun is high heaven and in the ditch lies a dead cat",
+				"statement3": "null"
+    		},
+ 		{
+  		"iam": "Quantities",
+    		"lastname": "Verse8",
+				"statement2": "Cats in quantities prepared by the garden door the claws are sharpened",
+				"statement3": "null"
+ 		},
+		{
+		"iam": "Paws",
+		"lastname": "Verse9",
+		"statement2": "On cat paws The night spun in tar out on scratches",
+		"statement3": "null"
+		}
+ 	]
+}
