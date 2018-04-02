@@ -1,6 +1,6 @@
 ![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/Haiku/Cat_Haiku/kattemis.JPG)
 
-https://rawgit.com/JonasNordberg/mini_ex/master/mini_ex7/Cat_Haiku/empty-example/index.html
+https://rawgit.com/JonasNordberg/mini_ex/master/mini_ex7/Cat_Haiku/index.html 
 
 ## Lost in Translation 
 The Cat Haiku by Nanna Nørmark and Jonas Nordberg
