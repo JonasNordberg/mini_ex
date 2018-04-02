@@ -1,6 +1,6 @@
 ![Screenshot](https://github.com/nannanoermark/miniexes_real/blob/master/Haiku/Cat_Haiku/kattemis.JPG)
 
-https://rawgit.com/JonasNordberg/mini_ex/master/Haiku/Cat_Haiku/index.html
+https://rawgit.com/JonasNordberg/mini_ex/master/mini_ex7/Cat_Haiku/empty-example/index.html
 
 ## Lost in Translation 
 The Cat Haiku by Nanna Nørmark and Jonas Nordberg
@@ -13,6 +13,8 @@ We picked Cat Haikus because we wanted to experiment with humour as a sort of in
 
 
 ### Language
+
+![alt text](recaptcha.gif 'program')
 
 As a human being we use language to communicate to each other. When we use the same language as the person we communicate with not much can be misunderstood. But then we also have our body language, which can be a part of understanding of the situation. 
 But when we use our computers a new language is present - the machine language. This language is much stricter than the human language (except for maybe the german language…). There is no room for misunderstandings and false interpretations. A task given can only be solved in one way. So if the task is not properly defined no solution will be given by the computer. This language barrier is also something that we’ve experienced during this exercise. 
