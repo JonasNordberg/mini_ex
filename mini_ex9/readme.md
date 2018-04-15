@@ -2,7 +2,9 @@
 
 ### Individual work:
 
-![alt text](flowchart-2.jpg "flowchart") 
+![alt text](Flowchart-2.jpg "flowchart") 
+
+
 [link to program](https://rawgit.com/JonasNordberg/mini_ex/master/mini_ex3/empty-example/index.html)
 
 ### Group work 
