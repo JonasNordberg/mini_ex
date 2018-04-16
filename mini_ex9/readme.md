@@ -2,7 +2,7 @@
 
 ### Individual work:
 
-![alt text](Flowchart-3.jpg "flowchart") 
+![alt text](Flowchart-2.jpg "flowchart") 
 
 
 [link to program](https://rawgit.com/JonasNordberg/mini_ex/master/mini_ex3/empty-example/index.html)
@@ -37,4 +37,8 @@ Do we want the user to be able to upload their own photo, and make the computer 
 
 ### Individual: How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
 
+The flowcharts does look a bit different from what I've made in my individual task. There are some key differences in the way you create a flowchart when having a functioning program or when you are just on the idea basis. But then again I do think that it is great to try and push yourself to make a flowchart before actually creating the program. By doing so you will get a pretty good idea of what you want to do with the program, which can only be helpful to you.
+
 ### Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+
+
